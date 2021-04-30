@@ -1,0 +1,19 @@
+{
+  "name": "crunch-music",
+  "main": "index.js",
+  "author": "!ts tyler#7922",
+  "version": "1.0.0",
+  "description": "A complete Discord music bot made by @!ts tyler#7922 with some credits to Zerio.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.2.0",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "ffmpeg-static": "^4.2.7",
+    "moment": "^2.29.1",
+    "pm2": "^4.5.6"
+  }
+}
